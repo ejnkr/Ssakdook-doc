@@ -10,9 +10,9 @@
 ### 바로가기
 현재 문서 준비중입니다.
 
-* [명령어](plugin/commands.md)
+* [명령어](plugin/command.md)
 * [사용 가능한 변수 목록](variables.md)
-* [채팅 로그](plugin/logs.md)
+* [채팅 로그](plugin/chatlog.md)
 
 ### 채팅 관리
 * [금지단어 설정](plugin/blacklist_word.md)
