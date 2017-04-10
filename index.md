@@ -20,3 +20,4 @@
 * [특수문자 도배](plugin/excess_symbols.md)
 * [도배 방지](plugin/repetitions.md)
 * [링크 차단](plugin/links.md)
+* [타이머](plugin/timer.md)
